@@ -28,7 +28,7 @@ public class BATabBarItem: UIButton {
         static let OutlineRadiusPadding: Double = 5.0
         static let OutlinePadding: Double = 5.0
         static let TitleOffset: Double = 0.0
-        static let TabBarHeight: Double = 49.0
+        static let TabBarHeight: Double = 69.0
         static let IconPaddingNoText: Double = -15.0
         static let IconPaddingWithText: Double = -20.0
     }
